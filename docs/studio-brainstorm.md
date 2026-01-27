@@ -11,9 +11,9 @@
   - TidePlay
 
 - **Chosen Name**:
-- **About the name**: Stillfire
-- **Social Medias with name available**: Stillfire Games
-- **Possible domain names available**: Stillfire-games.com
+- **About the name**: StillFire
+- **Social Medias with name available**: StillFire Games
+- **Possible domain names available**: stillfire-games.com
 
 ---
 
@@ -95,7 +95,7 @@ Our mission is to design gentle yet meaningful interactive experiences that blen
   - “Warm Stories, Gentle Play.”
 
 -- **Sketches/Logo**:
-
+![an illustration of a lit matchstick with the word StillFire under it](docs/stillfire-logo.png)
 
 ---
 
