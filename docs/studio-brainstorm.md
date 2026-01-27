@@ -1,7 +1,3 @@
----
-layout: default
-title: Studio Brainstorm
----
 
 # Studio Brainstorm
 # Game Studio Brainstorming - Allie He
