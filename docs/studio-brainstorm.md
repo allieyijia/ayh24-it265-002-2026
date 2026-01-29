@@ -96,7 +96,7 @@ Our mission is to design gentle yet meaningful interactive experiences that blen
   - “Warm Stories, Gentle Play.”
 
 -- **Sketches/Logo**:
-![an illustration of a lit matchstick with the word StillFire under it](ayh24-it265-002-2026/docs/stillfire-logo.png)
+![an illustration of a lit matchstick with the word StillFire under it](stillfire-logo.png)
 
 ---
 
