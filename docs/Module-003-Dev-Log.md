@@ -3,18 +3,19 @@
 ### Module: 003
 
 <!-- Repeat the below as needed-->
-### Date: 2/9/2026
+### Date: 2/16/2026
 
 #### Goals for this Module
-- [ ] understand how to design game balance (mechanic, balance, reward) 
-- [ ] Understand player balance (PVP, PVE)
-- [ ] Play Atari game and learn from old game mechanics
+- [ ] understand what elecments contribute to a games look and feel
+- [ ] how imporatant interface design is to a gameplay experince
+- [ ] Uderstand color theory and it's contribution
+- [ ]  what makes a game bad
 -->
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - I played River Raid as my Atari game, and it was really cool as a vertical scorlling game. Wrote case study
+  - Wrote case study for what a bad game is. (and realized how bad the games I play are)
+  - I think i want to do a dungeon crawler territory expansion board game
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
   -  N/A
@@ -24,16 +25,15 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  Gmae balance is important, and players should be able to play, progress, and get rewarded proportionally
--  But hard games like souls like still have an aundience, has to be balanced
--  Doing a matrix like the rock paper scicceors, which is a perfect balaccned system (-1, 0, +1)
+- How imporatnt UI elements is in a game, epxisally if it is intergrated well or "transparent". Also made me realize most gatcha games have the worst UI.
+- Sound and ambience is also super important, expeially for more immersive experinces.
+- Color pallet and theory can make the game more cohesive and immersive. 
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  Why does people like souls like if its just pain and suffering?
--  What proportion of challange and reward is good?
--  Would the game be too predictable?
--  Design level, player, reward, effort, gameplay, mechanicas balance? 
+-  Maybe not having sound is also part of sound design. ie: cut off all sound and ambince when a boss is coming in a horror game
+-  Over cluttered HUD is a huge problem
+-  Some games are great I should go back and play them again (Firewatch and Last of Us 2) 
 <!--
 
 - Example prompts:
