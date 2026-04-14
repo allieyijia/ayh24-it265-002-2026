@@ -86,7 +86,7 @@ Explain how these challenges drive player engagement.
 - Build an unbroken token chain from your starting corner to the Boss Chamber, containting 7+ rooms, with no diagonals. 
 - Hold majority tokens in the Boss Chamber
 - Have your character figure present in the Boss Chamber
-- All three conditions must be true simultaneously at the end of a full round
+- All three conditions must be true simultaneously at the end of a full round from your turn
 
 ### Progression
 <!-- 
