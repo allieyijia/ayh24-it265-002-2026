@@ -37,7 +37,7 @@ This should convey what makes your game unique in a compelling way.
 Identify the target age group, interests, and gamer profile. 
 Mention if your game appeals to casual or hardcore players. 
 -->
-- Age Group: 12+
+- Age Group: 10/12+
 - Casual and Intermediate Players
 - Fans of territory and strategy games (e.g., Catan, Risk, Blokus)
 - Friend groups looking for a competitive game night option
@@ -72,7 +72,7 @@ Consider gender representation, cultural diversity, and accessibility features f
 List and describe the core gameplay mechanics players will engage with. 
 Explain how they contribute to the game's challenge and fun. 
 -->
-- Supply chain building: Players expand territory by placing tokens in rooms adjacent to their existing chain. Every room in the path from starting corner to Boss Chamber must hold at least one token. 
+- Supply chain building: Players expand territory by placing tokens in rooms adjacent to their existing chain. Every room in the path from starting corner to Boss Chamber must hold at least one token, the path must be more than 7 rooms long not including the boss room. Cannot go diagonal. 
 - Character movement: Each player's figure can only move through rooms already in their chain. The figure must physically reach the Boss Chamber to win.
 - Intransitive faction bonuses: Factions beat each other in a cycle (Elf beats Orc, Orc beats Angel, Angel beats Demon, Demon beats Elf) The advantaged faction gets +1 toward majority in contested rooms.
 - Ability cards: Three card types (Remove, Swap, Skip) let players disrupt opponent chains and protect their own.
@@ -83,7 +83,7 @@ Explain how they contribute to the game's challenge and fun.
 Detail what players aim to achieve and the obstacles they must overcome. 
 Explain how these challenges drive player engagement. 
 -->
-- Build an unbroken token chain from your starting corner to the Boss Chamber
+- Build an unbroken token chain from your starting corner to the Boss Chamber, containting 7+ rooms, with no diagonals. 
 - Hold majority tokens in the Boss Chamber
 - Have your character figure present in the Boss Chamber
 - All three conditions must be true simultaneously at the end of a full round
@@ -101,19 +101,19 @@ Outline the core rules governing the gameplay experience.
 Ensure they are clear, structured, and intuitive. 
 -->
 - Each player starts with their character figure and 2 tokens in their starting corner. Draw no cards to start.
-- On your turn, roll 2D6 and resolve the matching action:
--   2-6: Place 1 token in a room adjacent to your chain
--   7-8: Move character up to 2 rooms within your chain
--   9-10: Draw 1 ablitly card
--   11-12: place 2 tokens
+- On your turn, either play an ability card, or roll a D6 and resolve the matching action:
+-   1: place 1 token
+-   2: place 2 tokens
+-   3: place 3 tokens
+-   4: move your piece 1 room
+-   5: move up to 2 rooms
+-   6: draw an ability card! (if you have 3, have to discard a current one, only have up to 3 ability cards at a time) 
   
-- You may play 1 ability card per turn as a free action before or after rolling.
 - A room is contested when it holds tokens from more than one faction. Most tokens controls it. In a tie, no one controls it.
 - The faction with the intransitive advantage gets +1 toward majority in contested rooms.
 - Tokens can only be removed by ability cards, not through normal play.
-- Win check happens at the end of every full round.
+- Win check happens when 1 player holds true all winning conditions after a full round of their turn. 
 
-- Roll dice → Resolve action (place token / move character / draw card / place 2 tokens) → Play ability card (optional) → Win check → Next player's turn
 ---
 
 ## Story and Setting
@@ -150,6 +150,7 @@ Identify what makes your game stand out from others in its genre.
 Highlight key features that differentiate it in the market. 
 -->
 - No combat, conflict is entirelly by cotornally territories, insetad of eliminating opponents.
+- Easier than Risk or Catan
 - Three-part win condition: Requiring a supply chain, majority, and physical presence means no single strategy dominates.
 - Intransitive faction system: Rock-paper-scissors-style faction cycle adds asymmetry with minimal complexity. One number (+1) and a four-step cycle.
 - Plays in under an hour: Sits between lightweight party games and heavy strategy games.
@@ -184,7 +185,6 @@ Examples: excitement, curiosity, tension, relaxation, humor.
 -->
 - Tension: Every token placement matters because chains can be broken at any time
 - Strategic satisfaction: Winning requires managing three conditions simultaneously, so victory feels earned
-- Excitement: Rolling 11–12 for Place 2 Tokens feels like a lucky break; ability cards create reactive moments
 - Accessibility: New players can understand the board state and make meaningful decisions from turn one
 ---
 
@@ -202,12 +202,11 @@ Physical board game (tabletop).
 <!-- 
 List key engines, programming languages, or frameworks required for development. 
 -->
-
 - Cardstockand board
-- Colored tokens or chips in four shapes for prototyping
+- Colored tokens in four shapes for prototyping
 - Index cards for ability card prototype
 - Figurines out of cardboard
-- Standard D6 dice (two of them) 
+- Standard D6 dice
 
 ---
 
@@ -227,6 +226,7 @@ Describe the art direction, including color schemes, animation style, and UI ele
 Explain the role of music, sound effects, and audio feedback in enhancing immersion. 
 -->
 - For digital: ambient dungeon atmosphere, distinct audio cues per faction action, and a dramatic sound sting for the win condition moment. And fantacy music in the back constantly (like dark orchestral) (melodic metal?)
+- 2.5D top down
 
 ---
 
