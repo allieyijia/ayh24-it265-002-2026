@@ -1,41 +1,35 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Allie He
+### Module: 10
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: 4/20/26
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] start drafting out and brainstorm for the digital version of the game
+- [ ] playtest board game
 -->
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - started planning out the digital version and creating graphics
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+-   how to translate the boardgame or mkae it more diffrent digitally
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - i think im leaning more into the digital vierson of the game being more different from only following the boardgame, but the core game play is the same. 
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  to figure the logistics and mechanics for teh digital version (unlimited tokens, rolls (spinner instead?), movments, what the board looks like. how to do 2.5D. 
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 -  <!--Your entry here or N/A if not applicable for this entry-->
 <!--
 
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
+- how much graphics to do to sow the vibe of dungeon. 
   
 -->
 
